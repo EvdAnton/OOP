@@ -1,0 +1,9 @@
+C:\Users\evdan\My_Project\Projects\OOPHS\Plaginus\Plagin\Plagin\bin\Debug\netstandard2.0\Plagin.deps.json
+C:\Users\evdan\My_Project\Projects\OOPHS\Plaginus\Plagin\Plagin\bin\Debug\netstandard2.0\Plagin.dll
+C:\Users\evdan\My_Project\Projects\OOPHS\Plaginus\Plagin\Plagin\bin\Debug\netstandard2.0\Plagin.pdb
+C:\Users\evdan\My_Project\Projects\OOPHS\Plaginus\Plagin\Plagin\obj\Debug\netstandard2.0\Plagin.csprojAssemblyReference.cache
+C:\Users\evdan\My_Project\Projects\OOPHS\Plaginus\Plagin\Plagin\obj\Debug\netstandard2.0\Plagin.csproj.CoreCompileInputs.cache
+C:\Users\evdan\My_Project\Projects\OOPHS\Plaginus\Plagin\Plagin\obj\Debug\netstandard2.0\Plagin.AssemblyInfoInputs.cache
+C:\Users\evdan\My_Project\Projects\OOPHS\Plaginus\Plagin\Plagin\obj\Debug\netstandard2.0\Plagin.AssemblyInfo.cs
+C:\Users\evdan\My_Project\Projects\OOPHS\Plaginus\Plagin\Plagin\obj\Debug\netstandard2.0\Plagin.dll
+C:\Users\evdan\My_Project\Projects\OOPHS\Plaginus\Plagin\Plagin\obj\Debug\netstandard2.0\Plagin.pdb

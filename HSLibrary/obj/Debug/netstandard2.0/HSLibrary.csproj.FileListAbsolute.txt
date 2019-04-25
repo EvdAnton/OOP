@@ -1,0 +1,9 @@
+C:\Users\evdan\My_Project\Projects\OOPHS\HSLibrary\bin\Debug\netstandard2.0\HSLibrary.deps.json
+C:\Users\evdan\My_Project\Projects\OOPHS\HSLibrary\bin\Debug\netstandard2.0\HSLibrary.dll
+C:\Users\evdan\My_Project\Projects\OOPHS\HSLibrary\bin\Debug\netstandard2.0\HSLibrary.pdb
+C:\Users\evdan\My_Project\Projects\OOPHS\HSLibrary\obj\Debug\netstandard2.0\HSLibrary.csprojAssemblyReference.cache
+C:\Users\evdan\My_Project\Projects\OOPHS\HSLibrary\obj\Debug\netstandard2.0\HSLibrary.csproj.CoreCompileInputs.cache
+C:\Users\evdan\My_Project\Projects\OOPHS\HSLibrary\obj\Debug\netstandard2.0\HSLibrary.AssemblyInfoInputs.cache
+C:\Users\evdan\My_Project\Projects\OOPHS\HSLibrary\obj\Debug\netstandard2.0\HSLibrary.AssemblyInfo.cs
+C:\Users\evdan\My_Project\Projects\OOPHS\HSLibrary\obj\Debug\netstandard2.0\HSLibrary.dll
+C:\Users\evdan\My_Project\Projects\OOPHS\HSLibrary\obj\Debug\netstandard2.0\HSLibrary.pdb
